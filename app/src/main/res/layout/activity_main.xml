@@ -20,7 +20,7 @@
         android:layout_height="match_parent"
         android:onClick="gerarNovaFrase"
         android:scaleType="centerCrop"
-        app:srcCompat="@drawable/fundo2" />
+        app:srcCompat="@drawable/walpaper" />
 
     <TextView
         android:id="@+id/textResultado"
@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|right"
         android:layout_marginRight="16dp"
-        android:layout_marginBottom="80dp"
-        android:textColor="@android:color/background_light" />
+        android:layout_marginBottom="110dp"
+        android:textColor="@android:color/background_dark" />
 
 </FrameLayout>
